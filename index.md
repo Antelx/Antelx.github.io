@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## 哟，来了呀
+
+啥都不说了，看看[Transformer中mask的两种用法](https://github.com/Antelx/Antelx.github.io/blob/master/Transformer%E4%B8%ADmask%E7%9A%84%E4%B8%A4%E7%A7%8D%E7%94%A8%E6%B3%95.md)。
 
 You can use the [editor on GitHub](https://github.com/Antelx/Antelx.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
