@@ -2714,6 +2714,11 @@ img.aligncenter {
     text-transform: uppercase;
 }
 
+.bingpaipailie {
+    display: flex;
+    justify-content: space-around;
+}
+
 .widget_posts_entries a {
     display: block;
     color: #000;
